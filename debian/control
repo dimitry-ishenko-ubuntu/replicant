@@ -21,20 +21,20 @@ Replaces: ubuntu-advantage-daemon
 Conflicts: ubuntu-advantage-daemon
 Description: ubuntu-advantage-desktop-daemon
 
-Package: ubuntu-manager
-Section: gnome
-Priority: optional
-Architecture: all
-Description: ubuntu-manager
-
-Package: ubuntu-notifier
-Section: gnome
-Priority: optional
-Architecture: all
-Description: ubuntu-notifier
-
 Package: ubuntu-release-upgrader-gtk
 Section: admin
 Priority: optional
 Architecture: all
 Description: ubuntu-release-upgrader-gtk
+
+Package: update-manager
+Section: gnome
+Priority: optional
+Architecture: all
+Description: update-manager
+
+Package: update-notifier
+Section: gnome
+Priority: optional
+Architecture: all
+Description: update-notifier
