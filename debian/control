@@ -1,4 +1,6 @@
 Source: replicant
+Section: misc
+Priority: optional
 Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.6.0
