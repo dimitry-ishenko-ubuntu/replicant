@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: replicant
-Source: https://github.com/dimitry-ishenko/replicant
+Source: https://github.com/dimitry-ishenko-ubuntu/replicant
 
 Files: *
 Copyright: 2023 Dimitry Ishenko <dimitry.ishenko@gmail.com>
