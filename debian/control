@@ -1,0 +1,38 @@
+Source: replicant
+Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+
+Package: ubuntu-advantage-tools
+Section: misc
+Priority: important
+Architecture: all
+Description: ubuntu-advantage-tools
+
+Package: ubuntu-advantage-desktop-daemon
+Section: misc
+Priority: optional
+Architecture: all
+Provides: ubuntu-advantage-daemon
+Replaces: ubuntu-advantage-daemon
+Conflicts: ubuntu-advantage-daemon
+Description: ubuntu-advantage-desktop-daemon
+
+Package: ubuntu-manager
+Section: gnome
+Priority: optional
+Architecture: all
+Description: ubuntu-manager
+
+Package: ubuntu-notifier
+Section: gnome
+Priority: optional
+Architecture: all
+Description: ubuntu-notifier
+
+Package: ubuntu-release-upgrader-gtk
+Section: admin
+Priority: optional
+Architecture: all
+Description: ubuntu-release-upgrader-gtk
