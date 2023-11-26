@@ -1,3 +1,9 @@
+replicant (2:2.1) unstable; urgency=medium
+
+  * Fix package names
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sat, 18 Nov 2023 12:49:30 -0500
+
 replicant (2:2.0) unstable; urgency=medium
 
   * Add gbp.conf
