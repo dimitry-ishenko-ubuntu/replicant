@@ -21,6 +21,12 @@ Replaces: ubuntu-advantage-daemon
 Conflicts: ubuntu-advantage-daemon
 Description: ubuntu-advantage-desktop-daemon
 
+Package: ubuntu-release-upgrader-core
+Section: admin
+Priority: standard
+Architecture: all
+Description: ubuntu-release-upgrader-core
+
 Package: ubuntu-release-upgrader-gtk
 Section: admin
 Priority: optional
