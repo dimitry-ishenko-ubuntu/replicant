@@ -21,6 +21,12 @@ Replaces: ubuntu-advantage-daemon
 Conflicts: ubuntu-advantage-daemon
 Description: ubuntu-advantage-desktop-daemon
 
+Package: ubuntu-pro-client
+Section: misc
+Priority: important
+Architecture: all
+Description: ubuntu-advantage-tools
+
 Package: ubuntu-release-upgrader-core
 Section: admin
 Priority: standard
